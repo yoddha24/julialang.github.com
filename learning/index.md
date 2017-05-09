@@ -4,6 +4,8 @@ title:  Learning Julia
 ---
 # Books
 
+- [Introduction to Julia Programming: For Scientists and Engineers](https://www.amazon.com/dp/1521233411) by Dr. Sandeep Nagar (282 pages; published: May 5, 2017; ISBN: 978-1521233412)
+This book books is both for beginners and experienced users. While experienced users can use this as a reference, new users can learn the fine details of julia program's composition. CHAPETRS: 1. Introduction, 2. Object Oriented programming, 3. Basic maths with Julia, 4. Complex Numbers, 5. Rational and Irrational numbers, 6. Mathematical Functions, 7.Arrays, 8. Arrays for matrix operations, 9. String,s 10. Functions, 11. Control Flow, 12. Input Output
 - [Julia: High Performance Programming](https://www.packtpub.com/application-development/julia-high-performance-programming) by Ivo Balbaert, Avik Sengupta, Malcolm Sherrington
  (697 pages; published: November 2016; ISBN: 9781787125704) 
    In this learning path, you will learn to use an interesting and dynamic programming language—Julia! This book is a combination and curation of the three separate books by the three authors.
